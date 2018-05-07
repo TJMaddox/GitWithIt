@@ -1,3 +1,5 @@
 This is a text file meant to test my abilities to operate within GitBash.
 
 This is a second edit to test.
+
+This a third edit to test.
